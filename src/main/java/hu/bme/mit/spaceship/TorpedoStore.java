@@ -2,6 +2,7 @@ package hu.bme.mit.spaceship;
 
 import java.util.Random;
 
+//Köszönöm Milán a kommenteket, kijavítottam a Review-d alapján a dolgokat.
 /**
 * Class storing and managing the torpedoes of a ship
 *
